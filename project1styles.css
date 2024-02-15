@@ -1,0 +1,33 @@
+body {
+    background-color: #ff0808; 
+    color: #000000; 
+    font-family: Georgia, sans-serif;
+}
+
+.div-container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffa808; 
+    border-radius: 10px; 
+}
+
+#CoverArt {
+    border-radius: 50%; 
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+#Trailer {
+    margin: 20px 0;
+}
+
+#Actors {
+    list-style-type: none;
+    padding: 0;
+}
+
+#Actors li {
+    margin: 5px 0;
+}
